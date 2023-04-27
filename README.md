@@ -4,14 +4,17 @@ SHKR ist ein Remaster der SH1-Miltärkampagne und kann (teilweise) als Invasion 
 
 
 
---INSTALLATION--
+# INSTALLATION
+
 Die Maps mit dem Namen "mission0", "mission1" usw. ersetzten die originalen Missionen und müssen in Firefly Studios/Stronghold/maps.
 Vergesst nicht eine Sicherheitskopie der Vanilla-Karten zu erstellen.
 
 Die Maps mit dem Namen "SHKR-Mission-01" usw. in den ganz normalen maps-Ordner in Dokumente. Dann als normale Invasion spielen.
 
 
---SCHWIERIGKEITSGRAD--
+
+# SCHWIERIGKEITSGRAD
+
 SHKR ist deutlich schwerer als die originale Kampagne. Spielt SHKR also ruhig auch auf niedrigeren Schwierigkeitsgraden.
 Sehr Schwer ist aber immer ohne Tricksereien und Exploits schaffbar.
 
@@ -21,7 +24,9 @@ Sehr Schwer ist aber immer ohne Tricksereien und Exploits schaffbar.
 - Sehr Schwer: Wer eine Herausforderung sucht ist hier genau richtig. Ein forderndes Erlebnis, das schonmal ein paar Anläufe und Neustarts brauchen kann.
 
 
---HINWEISE--
+
+# HINWEISE
+
 Die ersten drei Karten sind auf Normal zu spielen (da noch kein Schwierigkeitsgrad in der Kampagne auswählbar), ansonsten gerne auf Sehr Schwer spielen.
 
 Es ist immer möglich die Mission ohne Abgrenzungen zu schaffen (Burgen bauen lohnt sich).
@@ -37,7 +42,9 @@ Umsetzen von Vorratslagern ist nicht nötig (auch nicht auf Sehr Schwer).
 Einreißen aller Dekoelemente (z. B. der Hafen aus Mission 19) ist nicht nötig, auch nicht auf Sehr Schwer.
 
 
---DANKSAGUNG--
+
+# DANKSAGUNG
+
 Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov (Alles tolle Leute, die mit Rat und Tat mithelfen!)
 
 
