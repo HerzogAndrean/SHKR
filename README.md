@@ -26,19 +26,15 @@ Sehr Schwer ist aber immer ohne Tricksereien und Exploits schaffbar.
 
 # HINWEISE
 
-Die ersten drei Karten sind auf Normal zu spielen (da noch kein Schwierigkeitsgrad in der Kampagne auswählbar), ansonsten gerne auf Sehr Schwer spielen.
+Hier ein paar Hinweise bezüglich des Gameplays:
 
-Es ist immer möglich die Mission ohne Abgrenzungen zu schaffen (Burgen bauen lohnt sich).
-
-Exploits, Cheats und Bugabuse (Unendlich Stein, Wegweiser-Camping usw.) sind nicht erwünscht bzw. zu vermeiden!
-
-Reichweiten von Schützen durch "Hier Angreifen"-Befehl auszureizen ist nie nötig.
-
-Schilde auf Mauern sind nur legitim, falls sie zu Missionsbeginn bereits auf den Mauer, Türmen usw. platziert sind! Verwendet sie ansonsten bitte nicht in der Defensive.
-
-Umsetzen von Vorratslagern ist nicht nötig (auch nicht auf Sehr Schwer).
-
-Einreißen aller Dekoelemente (z. B. der Hafen aus Mission 19) ist nicht nötig, auch nicht auf Sehr Schwer.
+- Die ersten drei Karten sind auf Normal zu spielen (da noch kein Schwierigkeitsgrad in der Kampagne auswählbar), ansonsten gerne auf Sehr Schwer spielen.
+- Es ist immer möglich die Mission ohne Abgrenzungen zu schaffen (Burgenbauen lohnt sich).
+- Exploits, Cheats und Bugabuse (Unendlich Stein, Wegweiser-Camping usw.) sind nicht erwünscht bzw. zu vermeiden!
+- Reichweiten von Schützen durch "Hier Angreifen"-Befehl auszureizen ist nie nötig.
+- Schilde auf Mauern sind nur legitim, falls sie zu Missionsbeginn bereits auf den Mauer, Türmen usw. platziert sind! Verwendet sie ansonsten bitte nicht in der Defensive.
+- Umsetzen von Vorratslagern ist nicht nötig (auch nicht auf Sehr Schwer).
+- Einreißen aller Dekoelemente (z. B. der Hafen aus Mission 19) ist nicht nötig, auch nicht auf Sehr Schwer.
 
 
 
