@@ -1,2 +1,45 @@
 # SHKR
 Remaster der Stronghold-1-Kampagne
+SHKR ist ein Remaster der SH1-Miltärkampagne und kann (teilweise) als Invasion oder als Ersatz für das Original gespielt werden (empfohlen).
+
+
+
+--INSTALLATION--
+Die Maps mit dem Namen "mission0", "mission1" usw. ersetzten die originalen Missionen und müssen in Firefly Studios/Stronghold/maps.
+Vergesst nicht eine Sicherheitskopie der Vanilla-Karten zu erstellen.
+
+Die Maps mit dem Namen "SHKR-Mission-01" usw. in den ganz normalen maps-Ordner in Dokumente. Dann als normale Invasion spielen.
+
+
+--SCHWIERIGKEITSGRAD--
+SHKR ist deutlich schwerer als die originale Kampagne. Spielt SHKR also ruhig auch auf niedrigeren Schwierigkeitsgraden.
+Sehr Schwer ist aber immer ohne Tricksereien und Exploits schaffbar.
+
+- Leicht: Wer einfach nur entspannt die Story und Karten erleben möchte.
+- Normal: Wer das Original kennt und dessen Schwierigkeitsgrad fordernd fand, sollte auf Normal spielen.
+- Schwer: Wer das Original auch mal (zumindest teilweise) auf Sehr Schwer gespielt hat.
+- Sehr Schwer: Wer eine Herausforderung sucht ist hier genau richtig. Ein forderndes Erlebnis, das schonmal ein paar Anläufe und Neustarts brauchen kann.
+
+
+--HINWEISE--
+Die ersten drei Karten sind auf Normal zu spielen (da noch kein Schwierigkeitsgrad in der Kampagne auswählbar), ansonsten gerne auf Sehr Schwer spielen.
+
+Es ist immer möglich die Mission ohne Abgrenzungen zu schaffen (Burgen bauen lohnt sich).
+
+Exploits, Cheats und Bugabuse (Unendlich Stein, Wegweiser-Camping usw.) sind nicht erwünscht bzw. zu vermeiden!
+
+Reichweiten von Schützen durch "Hier Angreifen"-Befehl ist nie nicht nötig.
+
+Schilde auf Mauern sind nur legitim, falls sie zu Missionsbeginn bereits auf den Mauer, Türmen usw. platziert sind! Verwendet sie ansonsten bitte nicht in der Defensive.
+
+Umsetzen von Vorratslagern ist nicht nötig (auch nicht auf Sehr Schwer).
+
+Einreißen aller Dekoelemente (z. B. der Hafen aus Mission 19) ist nicht nötig, auch nicht auf Sehr Schwer.
+
+
+--DANKSAGUNG--
+Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov (Alles tolle Leute, die mit Rat und Tat mithelfen!)
+
+
+
+Viel Vergnügen mit SHKR wünscht euch Herzog Andrean | Karl!
