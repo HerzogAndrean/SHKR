@@ -32,7 +32,7 @@ Es ist immer möglich die Mission ohne Abgrenzungen zu schaffen (Burgen bauen lo
 
 Exploits, Cheats und Bugabuse (Unendlich Stein, Wegweiser-Camping usw.) sind nicht erwünscht bzw. zu vermeiden!
 
-Reichweiten von Schützen durch "Hier Angreifen"-Befehl ist nie nicht nötig.
+Reichweiten von Schützen durch "Hier Angreifen"-Befehl auszureizen ist nie nötig.
 
 Schilde auf Mauern sind nur legitim, falls sie zu Missionsbeginn bereits auf den Mauer, Türmen usw. platziert sind! Verwendet sie ansonsten bitte nicht in der Defensive.
 
