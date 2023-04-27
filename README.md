@@ -47,5 +47,12 @@ Einreißen aller Dekoelemente (z. B. der Hafen aus Mission 19) ist nicht nötig,
 Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov (Alles tolle Leute, die mit Rat und Tat mithelfen!)
 
 
+# Häufige Fragen
+
+- Warum ist das Baumenü nicht abgändert? -- Baumenü ist fest gecodet und kann nicht geändert werden.
+- Sind die Karten alle final? -- Nein, alle Karten können potentiell geupdatet werden. SHKR ist noch in der Entwicklung.
+- Wann sind alle Maps fertig? -- Keine Ahnung, irgendwann halt.
+- Wie trete ich am besten mit dem Ersteller in Kontakt, falls mich etwas stört oder einen Fehler gefunden habe? -- Schreibt mir einfach einen Kommentar auf YT (https://www.youtube.com/channel/UCbOTHzwZ64ajbNCaCPEt3rw). Dort bin ich immer erreichbar.
+
 
 Viel Vergnügen mit SHKR wünscht euch Herzog Andrean | Karl!
