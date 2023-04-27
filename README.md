@@ -1,5 +1,4 @@
 # SHKR
-Remaster der Stronghold-1-Kampagne
 SHKR ist ein Remaster der SH1-Miltärkampagne und kann (teilweise) als Invasion oder als Ersatz für das Original gespielt werden (empfohlen).
 
 
