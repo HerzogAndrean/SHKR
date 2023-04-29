@@ -42,6 +42,7 @@ Hier ein paar Hinweise bezüglich des Gameplays:
 
 Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov (Alles tolle Leute, die mit Rat und Tat mithelfen!)
 
+Ohne sie gäbe es SHKR in seiner jetzigen Form sicherlich nicht!
 
 # HÄUFIGE FRAGEN
 
