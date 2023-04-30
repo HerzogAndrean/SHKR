@@ -49,7 +49,9 @@ Ohne sie gäbe es SHKR in seiner jetzigen Form sicherlich nicht!
 - Warum ist das Baumenü nicht abgändert? -- Baumenü ist fest gecodet und kann nicht geändert werden.
 - Sind die Karten alle final? -- Nein, alle Karten können potentiell geupdatet werden. SHKR ist noch in der Entwicklung.
 - Wann sind alle Maps fertig? -- Keine Ahnung, irgendwann halt.
-- Wie trete ich am besten mit dem Ersteller in Kontakt, falls mich etwas stört oder einen Fehler gefunden habe? -- Schreibt mir einfach einen Kommentar auf YT (https://www.youtube.com/channel/UCbOTHzwZ64ajbNCaCPEt3rw). Dort bin ich immer erreichbar.
+- Wie trete ich am besten mit dem Ersteller in Kontakt, falls mich etwas stört oder einen Fehler gefunden habe? -- Schreibt mir einfach einen Kommentar auf YT (https://youtube.com/@HerzogAndrean). Dort bin ich immer erreichbar. 
+
+Selbstverständlich könnt ihr auch hier auf GitHub ein Issue bzgl. allerlei Themen erstellen!
 
 
 Viel Vergnügen mit SHKR wünscht euch Herzog Andrean | Karl!
