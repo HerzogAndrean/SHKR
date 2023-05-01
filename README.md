@@ -5,12 +5,15 @@ SHKR ist ein Remaster der SH1-Miltärkampagne und kann (teilweise) als Invasion 
 
 # INSTALLATION
 
-Die Maps mit dem Namen "mission0", "mission1" usw. ersetzten die originalen Missionen und müssen in Firefly Studios/Stronghold/maps.
+Ihr könnt SHKR entweder als Ersatz der Originalkampagne (empfohlen), oder als normale Invasionen spielen. Dazu müsst ihr jeweils folgendes tun:
+
+- Die Maps mit dem Namen "mission0", "mission1" usw. ersetzten die originalen Missionen und müssen in Firefly Studios/Stronghold/maps.
 Vergesst nicht eine Sicherheitskopie der Vanilla-Karten zu erstellen.
 
-Die Maps mit dem Namen "SHKR-Mission-01" usw. in den ganz normalen maps-Ordner in Dokumente. Dann als normale Invasion spielen.
+- Die Maps mit dem Namen "SHKR-Mission-01" usw. in den ganz normalen maps-Ordner in Dokumente. Dann als normale Invasion spielen.
+Beachtet, dass die Maps auf die Kampagne angepasst sind.
 
-
+Entscheidet euch einfach für eine Variante und schon kann es losgehen.
 
 # SCHWIERIGKEITSGRAD
 
