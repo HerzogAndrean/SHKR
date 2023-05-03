@@ -20,13 +20,12 @@ Entscheidet euch einfach für eine Variante und schon kann es losgehen.
 # SCHWIERIGKEITSGRAD
 
 SHKR ist deutlich schwerer als die originale Kampagne. Spielt SHKR also ruhig auch auf niedrigeren Schwierigkeitsgraden.
-Sehr Schwer ist aber immer ohne Tricksereien und Exploits schaffbar.
+Sehr Schwer ist aber **immer** ohne Tricksereien und Exploits schaffbar.
 
 - Leicht: Wer einfach nur entspannt die Story und Karten erleben möchte.
 - Normal: Wer das Original kennt und dessen Schwierigkeitsgrad fordernd fand, sollte auf Normal spielen.
 - Schwer: Wer das Original auch mal (zumindest teilweise) auf Sehr Schwer gespielt hat.
 - Sehr Schwer: Wer eine Herausforderung sucht ist hier genau richtig. Ein forderndes Erlebnis, das schonmal ein paar Anläufe und Neustarts brauchen kann.
-
 
 
 # HINWEISE
@@ -39,9 +38,9 @@ Hier ein paar Hinweise bezüglich des Gameplays:
 - Reichweiten von Schützen durch "Hier Angreifen"-Befehl auszureizen ist nie nötig.
 - Schilde auf Mauern sind nur legitim, falls sie zu Missionsbeginn bereits auf den Mauer, Türmen usw. platziert sind! Verwendet sie ansonsten bitte nicht in der Defensive.
 - Bier und Religion sind jetzt durch zusätzliche Events nützlicher.
+- Es empfiehlt sich immer die Karte genau vorher anzusehen, um beispielsweise alle Rohstoffquellen zu finden.
 - Umsetzen von Vorratslagern ist nicht nötig (auch nicht auf Sehr Schwer).
 - Einreißen aller Dekoelemente (z. B. der Hafen aus Mission 19) ist nicht nötig, auch nicht auf Sehr Schwer.
-
 
 
 # DANKSAGUNG
@@ -64,4 +63,4 @@ Ohne sie gäbe es SHKR in seiner jetzigen Form sicherlich nicht!
 Selbstverständlich könnt ihr auch hier auf GitHub ein Issue bzgl. allerlei Themen erstellen!
 
 
-Viel Vergnügen mit SHKR wünscht euch Herzog Andrean | Karl!
+### Viel Vergnügen mit SHKR wünscht euch Herzog Andrean | Karl!
