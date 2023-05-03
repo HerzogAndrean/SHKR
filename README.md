@@ -38,6 +38,7 @@ Hier ein paar Hinweise bezüglich des Gameplays:
 - Exploits, Cheats und Bugabuse (Unendlich Stein, Wegweiser-Camping usw.) sind nicht erwünscht bzw. zu vermeiden!
 - Reichweiten von Schützen durch "Hier Angreifen"-Befehl auszureizen ist nie nötig.
 - Schilde auf Mauern sind nur legitim, falls sie zu Missionsbeginn bereits auf den Mauer, Türmen usw. platziert sind! Verwendet sie ansonsten bitte nicht in der Defensive.
+- Bier und Religion sind jetzt durch zusätzliche Events nützlicher.
 - Umsetzen von Vorratslagern ist nicht nötig (auch nicht auf Sehr Schwer).
 - Einreißen aller Dekoelemente (z. B. der Hafen aus Mission 19) ist nicht nötig, auch nicht auf Sehr Schwer.
 
@@ -51,7 +52,7 @@ Ohne sie gäbe es SHKR in seiner jetzigen Form sicherlich nicht!
 
 # HÄUFIGE FRAGEN
 
-- **Wie spiele ich SHKR als Ersatz für die Kampagne** -- Siehe Stichpunkt "Installation", erster Unterpunkt.
+- **Wie spiele ich SHKR als Ersatz für die Kampagne?** -- Siehe Stichpunkt "Installation", erster Unterpunkt.
 - **Warum ist das Baumenü nicht abgändert?** -- Baumenü ist fest gecodet und kann nicht geändert werden.
 - **Sind die Karten alle final?** -- Nein, alle Karten können potentiell geupdatet werden. SHKR ist noch in der Entwicklung.
 - **Wann sind alle Maps fertig?** -- Keine Ahnung, irgendwann halt.
