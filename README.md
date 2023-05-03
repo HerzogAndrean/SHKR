@@ -5,12 +5,14 @@ SHKR ist ein Remaster der SH1-Miltärkampagne und kann (teilweise) als Invasion 
 
 # INSTALLATION
 
+Ladet zunächst die Karten hier herunter.
+
 Ihr könnt SHKR entweder als Ersatz der Originalkampagne (empfohlen), oder als normale Invasionen spielen. Dazu müsst ihr jeweils folgendes tun:
 
-- Die Maps mit dem Namen "mission0", "mission1" usw. ersetzten die originalen Missionen und müssen in Firefly Studios/Stronghold/maps.
+- Die Maps mit dem Namen "mission0", "mission1" usw. ersetzten die originalen Missionen und müssen in **Program Files/Firefly Studios/Stronghold/maps** bzw. in **Program Files/Steam/steamapps/Stronghold HD/maps** bei der Steamversion. 
 Vergesst nicht eine Sicherheitskopie der Vanilla-Karten zu erstellen.
 
-- Die Maps mit dem Namen "SHKR-Mission-01" usw. in den ganz normalen maps-Ordner in Dokumente. Dann als normale Invasion spielen.
+- Die Maps mit dem Namen "SHKR-Mission-01" usw. in den ganz normalen maps-Ordner in **Dokumente/Stronghold/Maps**. Dann als normale Invasion spielen.
 Beachtet, dass die Maps auf die Kampagne angepasst sind.
 
 Entscheidet euch einfach für eine Variante und schon kann es losgehen.
@@ -49,10 +51,14 @@ Ohne sie gäbe es SHKR in seiner jetzigen Form sicherlich nicht!
 
 # HÄUFIGE FRAGEN
 
-- Warum ist das Baumenü nicht abgändert? -- Baumenü ist fest gecodet und kann nicht geändert werden.
-- Sind die Karten alle final? -- Nein, alle Karten können potentiell geupdatet werden. SHKR ist noch in der Entwicklung.
-- Wann sind alle Maps fertig? -- Keine Ahnung, irgendwann halt.
-- Wie trete ich am besten mit dem Ersteller in Kontakt, falls mich etwas stört oder einen Fehler gefunden habe? -- Schreibt mir einfach einen Kommentar auf YT (https://youtube.com/@HerzogAndrean). Dort bin ich immer erreichbar. 
+- **Wie spiele ich SHKR als Ersatz für die Kampagne** -- Siehe Stichpunkt "Installation", erster Unterpunkt.
+- **Warum ist das Baumenü nicht abgändert?** -- Baumenü ist fest gecodet und kann nicht geändert werden.
+- **Sind die Karten alle final?** -- Nein, alle Karten können potentiell geupdatet werden. SHKR ist noch in der Entwicklung.
+- **Wann sind alle Maps fertig?** -- Keine Ahnung, irgendwann halt.
+- **Ich habe die Maps von Firefly überspeichert und kein Backup erstellt. Was mache ich jetzt?** -- Tja, schlecht. Sofern ihr kein Backup besitzt und auch nach einer Suche im Netz die Missionen nicht zum Download findet, kann man Stronghold einfach neuinstallieren (Steamcloud deaktivieren und diesmal das Backup von Saves und Maps nicht vergessen!) und erhaltet die originalen Missionen zurück. Eine eigene Downloadoption für die Firefly-Versionen werde ich hier nicht anbieten.
+- **Warum wurde X auf Map Y gemacht/geändert/entfernt?** -- Falls ihr Fragen zu bestimmten Maps, Details, Designentscheidungen habt, oder mehr über die Entstehung der Karten erfahren wollt, könnt ihr gerne hier auf GitHub diesbezüglich ein Issue einrichten. Ich werde gerne alle Fragen beantworten.
+- **Ist neben dem Remaster der Militärkampagne auch ein Remaster von anderen Karten, oder der Wirtschaftskampagne geplant?** -- Nein, es ist nur die Militärkampagne geplant. Außerdem wird es nach SHKR wohl eine längere Schaffenspause geben.
+- **Wie trete ich am besten mit dem Ersteller in Kontakt, falls mich etwas stört oder einen Fehler gefunden habe?** -- Schreibt mir einfach einen Kommentar auf YT (https://youtube.com/@HerzogAndrean). Dort bin ich immer erreichbar. 
 
 Selbstverständlich könnt ihr auch hier auf GitHub ein Issue bzgl. allerlei Themen erstellen!
 
