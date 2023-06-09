@@ -9,7 +9,7 @@ Ladet zunächst die Karten hier herunter.
 
 Ihr könnt SHKR entweder als Ersatz der Originalkampagne (empfohlen), oder als normale Invasionen spielen. Dazu müsst ihr jeweils folgendes tun:
 
-- Die Maps mit dem Namen "mission0", "mission1" usw. ersetzten die originalen Missionen und müssen in **Program Files/Firefly Studios/Stronghold/maps** bzw. in **Program Files/Steam/steamapps/Stronghold HD/maps** bei der Steamversion. 
+- Die Maps mit dem Namen "mission0", "mission1" usw. ersetzten die originalen Missionen und müssen in **Program Files/Firefly Studios/Stronghold/maps** bzw. in **Program Files/Steam/steamapps/Stronghold HD/maps** bei der Steamversion. Ersetzt dann im jeweiligen Ordner die Originalkarten mit den Remaster-Maps.
 Vergesst nicht eine Sicherheitskopie der Vanilla-Karten zu erstellen.
 
 - Die Maps mit dem Namen "SHKR-Mission-01" usw. in den ganz normalen maps-Ordner in **Dokumente/Stronghold/Maps**. Dann als normale Invasion spielen.
