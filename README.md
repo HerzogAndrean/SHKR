@@ -5,7 +5,7 @@ SHKR ist ein Remaster der SH1-Miltärkampagne und kann (teilweise) als Invasion 
 
 # INSTALLATION
 
-Ladet zunächst die Karten hier herunter.
+Ladet zunächst die Karten hier herunter (klickt auf den grünen "Code"-Button und dann auf "Download ZIP" - die runtergeladene ZIP beinhaltet dann alle Maps).
 
 Ihr könnt SHKR entweder als Ersatz der Originalkampagne (empfohlen), oder als normale Invasionen spielen. Dazu müsst ihr jeweils folgendes tun:
 
@@ -56,6 +56,7 @@ Ohne sie gäbe es SHKR in seiner jetzigen Form sicherlich nicht!
 - **Sind die Karten alle final?** -- Nein, alle Karten können potentiell geupdatet werden. SHKR ist noch in der Entwicklung.
 - **Wann sind alle Maps fertig?** -- Keine Ahnung, irgendwann halt.
 - **Ich habe die Maps von Firefly überspeichert und kein Backup erstellt. Was mache ich jetzt?** -- Tja, schlecht. Sofern ihr kein Backup besitzt und auch nach einer Suche im Netz die Missionen nicht zum Download findet, kann man Stronghold einfach neuinstallieren (Steamcloud deaktivieren und diesmal das Backup von Saves und Maps nicht vergessen!) und erhaltet die originalen Missionen zurück. Eine eigene Downloadoption für die Firefly-Versionen werde ich hier nicht anbieten.
+- **Warum muss ich alle Maps einzeln runterladen?** -- Muss man eben nicht! Ladet einfach das Ganze als ZIP runter. Mehr Infos hierzu unter dem Stichpunkt "Installation".
 - **Warum wurde X auf Map Y gemacht/geändert/entfernt?** -- Falls ihr Fragen zu bestimmten Maps, Details, Designentscheidungen habt, oder mehr über die Entstehung der Karten erfahren wollt, könnt ihr gerne hier auf GitHub diesbezüglich ein Issue einrichten. Ich werde gerne alle Fragen beantworten.
 - **Ist neben dem Remaster der Militärkampagne auch ein Remaster von anderen Karten, oder der Wirtschaftskampagne geplant?** -- Nein, es ist nur die Militärkampagne geplant. Außerdem wird es nach SHKR wohl eine längere Schaffenspause geben.
 - **Wie trete ich am besten mit dem Ersteller in Kontakt, falls mich etwas stört oder einen Fehler gefunden habe?** -- Schreibt mir einfach einen Kommentar auf YT (https://youtube.com/@HerzogAndrean). Dort bin ich immer erreichbar. 
