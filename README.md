@@ -13,9 +13,9 @@ Ihr könnt SHKR entweder als Ersatz der Originalkampagne (empfohlen), oder als n
 Vergesst nicht eine Sicherheitskopie der Vanilla-Karten zu erstellen.
 
 - Die Maps mit dem Namen "SHKR-Mission-01" usw. in den ganz normalen maps-Ordner in **Dokumente/Stronghold/Maps**. Dann als normale Invasion spielen.
-Beachtet, dass die Maps auf die Kampagne angepasst sind.
+Beachtet, dass die Maps auf die Kampagne angepasst sind und gerade die Story-Inszenierung viel vom Charme ausmacht.
 
-Entscheidet euch einfach für eine Variante und schon kann es losgehen.
+Entscheidet euch einfach für eine Variante und schon kann es losgehen!
 
 # SCHWIERIGKEITSGRAD
 
@@ -25,7 +25,7 @@ Sehr Schwer ist aber **immer** ohne Tricksereien und Exploits schaffbar.
 - Leicht: Wer einfach nur entspannt die Story und Karten erleben möchte.
 - Normal: Wer das Original kennt und dessen Schwierigkeitsgrad fordernd fand, sollte auf Normal spielen.
 - Schwer: Wer das Original auch mal (zumindest teilweise) auf Sehr Schwer gespielt hat.
-- Sehr Schwer: Wer eine Herausforderung sucht ist hier genau richtig. Ein forderndes Erlebnis, das schonmal ein paar Anläufe und Neustarts brauchen kann.
+- Sehr Schwer: Wer eine Herausforderung sucht ist hier genau richtig. Ein forderndes Erlebnis, das schonmal ein paar Anläufe und Neustarts brauchen kann. Gerade auf diesem Schwierigkeitsgrad spielen sich manche Missionen deutlich anders (also meine ganz klar, persönliche Empfehlung).
 
 
 # HINWEISE
@@ -41,6 +41,7 @@ Hier ein paar Hinweise bezüglich des Gameplays:
 - Es empfiehlt sich immer die Karte genau vorher anzusehen, um beispielsweise alle Rohstoffquellen zu finden.
 - Umsetzen von Vorratslagern ist nicht nötig (auch nicht auf Sehr Schwer).
 - Einreißen aller Dekoelemente (z. B. der Hafen aus Mission 19) ist nicht nötig, auch nicht auf Sehr Schwer.
+- Seid von dem Missionsziel aus Mission-20 nicht verwundert. "Aufgaben" ist kein Bug. Lasst euch da einfach etwas überraschen. ;)
 
 
 # DANKSAGUNG
