@@ -107,6 +107,7 @@ SHKR wouldn't have been possible without them.
 # SUPPORT
 
 If you have questions or problems you can contact me here on YT:  https://youtube.com/@HerzogAndrean
+
 Or you just open an issue on GitHub!
 
 ### I hope you have fun with SHKR - Herzog Andrean | Karl
