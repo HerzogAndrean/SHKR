@@ -66,3 +66,42 @@ Selbstverständlich könnt ihr auch hier auf GitHub ein Issue bzgl. allerlei The
 
 
 ### Viel Vergnügen mit SHKR wünscht euch Herzog Andrean | Karl!
+
+##
+##
+## ENGLISH VERSION
+##
+# SHKR
+SHKR is a Remaster of the military camapign for Stronghold 1 which can be played as normal invasionmap or as a replacement for the original campaign from Firefly (recommended).
+
+# HOW TO INSTALL
+Download the maps (click on the green "Code"-Button and then "Download ZIP)
+
+Then choose one of the following:
+
+- To play the campaing as replacement for the original (recommended), put the maps "mission0", "mission1" and so on, in the folder "maps" in **Program Files/Firefly Studios/Stronghold/maps** / or **Program Files/Steam/steamapps/Stronghold HD/maps** when you've got the Steam-Edition. Exchange the original maps with my versions. Do not forget to save the Firefly versions somewhere else.
+
+- To play the missions as normal invasions put the maps "SHKR-Mission-01" and so on, in **Documents/Stronghold/Maps**. This is not recommended as the maps are made especially as a replacement.
+
+And that is it. After that you can start playing right away.
+
+# DIFFICULTY
+
+SHKR is way harder than the original campaign but always possible on Very Hard **without** exploits, cheats or other shenanigans.
+
+# REMARKS
+
+- Beer and religion are now stronger thanks to events connected to them.
+- Tricks, Expolits and so on (e. g. outrangeing units on towers with your own archers) is not necessary and should be avoided (even on Very Hard)
+- Shields on walls are not necessary (even on Very Hard)
+- Relocating your Stockpile is not necessary (even on Very Hard)
+- Try to build castles (it's a lot moire fun that way)
+- Destroying all decoration for resources is not necassary (even on Very Hard)
+
+# Credits
+
+Special thanks to Heroesflorian, Monsterfish_ und Nevikov (really great guys)!
+
+SHKR wouldn't have been possible without them.
+
+### I hope you have fun with SHKR - Herzog Andrean | Karl (https://youtube.com/@HerzogAndrean)
