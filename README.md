@@ -40,7 +40,7 @@ Hier ein paar Hinweise bezüglich des Gameplays:
 - Bier und Religion sind jetzt durch zusätzliche Events nützlicher.
 - Es empfiehlt sich immer die Karte genau vorher anzusehen, um beispielsweise alle Rohstoffquellen zu finden.
 - Umsetzen von Vorratslagern ist nicht nötig (auch nicht auf Sehr Schwer).
-- Einreißen aller Dekoelemente (z. B. der Hafen aus Mission 19) ist nicht nötig, auch nicht auf Sehr Schwer.
+- Einreißen aller Dekoelemente (z. B. der Hafen aus Mission 19) ist nicht nötig, auch nicht auf Sehr Schwer. Einreißen für Umbaumaßnahmen, wie in Mission 9 oder 10 (wo es auch explizit in der Missionbeschreibung erwähnt und von der Mission angedacht ist), ist natürlich legitim. Behaltet aber bitte die grundlegende Missionstruktur bei (und reißt beispielsweise in M14 nicht alle Steinanlagen ein, um alles an eine Stelle zu klatschen).
 - Seid von dem Missionsziel aus Mission-20 nicht verwundert. "Aufgaben" ist kein Bug. Lasst euch da einfach etwas überraschen. ;)
 
 
