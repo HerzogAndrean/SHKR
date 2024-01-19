@@ -25,7 +25,7 @@ Sehr Schwer ist aber **immer** ohne Tricksereien und Exploits schaffbar.
 - Leicht: Wer einfach nur entspannt die Story und Karten erleben möchte.
 - Normal: Wer das Original kennt und dessen Schwierigkeitsgrad fordernd fand, sollte auf Normal spielen.
 - Schwer: Wer das Original auch mal (zumindest teilweise) auf Sehr Schwer gespielt hat.
-- Sehr Schwer: Wer eine Herausforderung sucht ist hier genau richtig. Ein forderndes Erlebnis, das schonmal ein paar Anläufe und Neustarts brauchen kann. Gerade auf diesem Schwierigkeitsgrad spielen sich manche Missionen deutlich anders (also meine ganz klar, persönliche Empfehlung).
+- Sehr Schwer: Wer eine Herausforderung sucht ist hier genau richtig. Ein forderndes Erlebnis, das schonmal ein paar Anläufe und Neustarts brauchen kann. Gerade auf diesem Schwierigkeitsgrad spielen sich manche Missionen deutlich anders (also meine ganz klare, persönliche Empfehlung).
 
 
 # HINWEISE
@@ -41,35 +41,43 @@ Hier ein paar Hinweise bezüglich des Gameplays:
 - Es empfiehlt sich immer die Karte genau vorher anzusehen, um beispielsweise alle Rohstoffquellen zu finden.
 - Umsetzen von Vorratslagern ist nicht nötig (auch nicht auf Sehr Schwer).
 - Einreißen aller Dekoelemente (z. B. der Hafen aus Mission 19) ist nicht nötig, auch nicht auf Sehr Schwer. Einreißen für Umbaumaßnahmen, wie in Mission 9 oder 10 (wo es auch explizit in der Missionbeschreibung erwähnt und von der Mission angedacht ist), ist natürlich legitim. Behaltet aber bitte die grundlegende Missionstruktur bei (und reißt beispielsweise in M14 nicht alle Steinanlagen ein, um alles an eine Stelle zu klatschen).
-- Seid von dem Missionsziel aus Mission-20 nicht verwundert. "Aufgaben" ist kein Bug. Lasst euch da einfach etwas überraschen. ;)
+- Seid von dem Missionsziel aus Mission-20 nicht verwundert. "Aufgaben" ist kein Bug.
 
 
 # DANKSAGUNG
 
-Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov (Alles tolle Leute, die mit Rat und Tat mithelfen!)
-
-Ohne sie gäbe es SHKR in seiner jetzigen Form sicherlich nicht!
+Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov
 
 # HÄUFIGE FRAGEN
 
 - **Wie spiele ich SHKR als Ersatz für die Kampagne?** -- Siehe Stichpunkt "Installation", erster Unterpunkt.
 - **Warum ist das Baumenü nicht abgändert?** -- Baumenü ist fest gecodet und kann nicht geändert werden.
+- **Kann ich SHKR auch in der Definitive Edition spielen?** -- Ja und Nein, denn einige Misionen (M06, M10 und M14) funktionieren in der DE nicht, oder nur teilweise. Alle anderen Maps sollten grundsätzlich aber funktionieren. An sich empfehle ich jedoch immer die originalen Versionen von SH1 zu verwenden (beispielsweise die HD-Version auf Steam).
 - **Sind die Karten alle final?** -- Nein, alle Karten können potentiell geupdatet werden. SHKR ist noch in der Entwicklung.
 - **Wann sind alle Maps fertig?** -- Keine Ahnung, irgendwann halt.
 - **Ich habe die Maps von Firefly überspeichert und kein Backup erstellt. Was mache ich jetzt?** -- Tja, schlecht. Sofern ihr kein Backup besitzt und auch nach einer Suche im Netz die Missionen nicht zum Download findet, kann man Stronghold einfach neuinstallieren (Steamcloud deaktivieren und diesmal das Backup von Saves und Maps nicht vergessen!) und erhaltet die originalen Missionen zurück. Eine eigene Downloadoption für die Firefly-Versionen werde ich hier nicht anbieten.
 - **Warum muss ich alle Maps einzeln runterladen?** -- Muss man eben nicht! Ladet einfach das Ganze als ZIP runter. Mehr Infos hierzu unter dem Stichpunkt "Installation".
 - **Warum wurde X auf Map Y gemacht/geändert/entfernt?** -- Falls ihr Fragen zu bestimmten Maps, Details, Designentscheidungen habt, oder mehr über die Entstehung der Karten erfahren wollt, könnt ihr gerne hier auf GitHub diesbezüglich ein Issue einrichten. Ich werde gerne alle Fragen beantworten.
-- **Ist neben dem Remaster der Militärkampagne auch ein Remaster von anderen Karten, oder der Wirtschaftskampagne geplant?** -- Nein, es ist nur die Militärkampagne geplant. Außerdem wird es nach SHKR wohl eine längere Schaffenspause geben.
+- **Ist neben dem Remaster der Militärkampagne auch ein Remaster von anderen Karten, oder der Wirtschaftskampagne geplant?** -- An sich ist auch eine Wirtschaftskampagne im neuen Look geplant.
 - **Wie trete ich am besten mit dem Ersteller in Kontakt, falls mich etwas stört oder einen Fehler gefunden habe?** -- Schreibt mir einfach einen Kommentar auf YT (https://youtube.com/@HerzogAndrean). Dort bin ich immer erreichbar. 
 
-Selbstverständlich könnt ihr auch hier auf GitHub ein Issue bzgl. allerlei Themen erstellen!
+# Bekannte Bugs
+### Original
+- M14: Spiel stürzt ab, sobald man das Wild mit Jägern ausrottet. Lasst min. einen Hirsch leben.
+### Definitve Edition
+- M06: Map-Raster ist komplett im Eimer => unspielbar
+- M10: Burg wird nicht übernommen => unspielbar
+- M14: Sieg wird nicht registriert => an sich spielbar, aber nicht gewinnbar
+
+### Selbstverständlich könnt ihr auch hier auf GitHub ein Issue bzgl. allerlei Themen erstellen!
 
 
-### Viel Vergnügen mit SHKR wünscht euch Herzog Andrean | Karl!
+## Viel Vergnügen mit SHKR wünscht euch Herzog Andrean | Karl!
 
 ##
 ##
 ## ENGLISH VERSION
+##
 ##
 # SHKR
 SHKR is a Remaster of the military camapign for Stronghold 1 which can be played as normal invasionmaps or as a replacement for the original campaign from Firefly (recommended).
@@ -98,11 +106,20 @@ SHKR is way harder than the original campaign but always possible on Very Hard *
 - Try to build castles (it's a lot more fun that way)
 - Destroying all decorations for resources is not necassary (even on Very Hard)
 
+# KNOWN BUGS
+### Original
+- Overhunting in M14 causes SH1 to crash. Let at least one deer live to prevent a crash.
+
+### Definitive Edition
+- M06: Well, um, I think you see the problem => unplayable
+- M10: Cede does not work => unplayable
+- M14: Victory does not trigger => semi-playable
+
+I recommend using the original version of SH1 or HD.
+
 # CREDITS
 
-Special thanks to Heroesflorian, Monsterfish_ und Nevikov (really great guys)!
-
-SHKR wouldn't have been possible without them.
+Special thanks to Heroesflorian, Monsterfish_ und Nevikov
 
 # SUPPORT
 
