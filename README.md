@@ -1,8 +1,6 @@
 # SHKR
 SHKR ist ein Remaster der SH1-Miltärkampagne und kann (teilweise) als Invasion oder als Ersatz für das Original gespielt werden (empfohlen).
 
-
-
 # INSTALLATION
 
 Ladet zunächst die Karten hier herunter (klickt auf den grünen "Code"-Button und dann auf "Download ZIP" - die runtergeladene ZIP beinhaltet dann alle Maps).
@@ -54,7 +52,7 @@ Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov
 - **Warum ist das Baumenü nicht abgändert?** -- Baumenü ist fest gecodet und kann nicht geändert werden.
 - **Kann ich SHKR auch in der Definitive Edition spielen?** -- Ja und Nein, denn einige Misionen (M06, M10 und M14) funktionieren in der DE nicht, oder nur teilweise. Alle anderen Maps sollten grundsätzlich aber funktionieren. An sich empfehle ich jedoch immer die originalen Versionen von SH1 zu verwenden (beispielsweise die HD-Version auf Steam).
 - **Sind die Karten alle final?** -- Nein, alle Karten können potentiell geupdatet werden. SHKR ist noch in der Entwicklung.
-- **Wann sind alle Maps fertig?** -- Keine Ahnung, irgendwann halt.
+- **Wann sind alle Maps fertig?** -- An sich sind jetzt schon alle 21 Missionen spielbar, jedoch könnten ein paar Karten noch geupdated werden.
 - **Ich habe die Maps von Firefly überspeichert und kein Backup erstellt. Was mache ich jetzt?** -- Tja, schlecht. Sofern ihr kein Backup besitzt und auch nach einer Suche im Netz die Missionen nicht zum Download findet, kann man Stronghold einfach neuinstallieren (Steamcloud deaktivieren und diesmal das Backup von Saves und Maps nicht vergessen!) und erhaltet die originalen Missionen zurück. Eine eigene Downloadoption für die Firefly-Versionen werde ich hier nicht anbieten.
 - **Warum muss ich alle Maps einzeln runterladen?** -- Muss man eben nicht! Ladet einfach das Ganze als ZIP runter. Mehr Infos hierzu unter dem Stichpunkt "Installation".
 - **Warum wurde X auf Map Y gemacht/geändert/entfernt?** -- Falls ihr Fragen zu bestimmten Maps, Details, Designentscheidungen habt, oder mehr über die Entstehung der Karten erfahren wollt, könnt ihr gerne hier auf GitHub diesbezüglich ein Issue einrichten. Ich werde gerne alle Fragen beantworten.
@@ -83,7 +81,7 @@ Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov
 SHKR is a Remaster of the military camapign for Stronghold 1 which can be played as normal invasionmaps or as a replacement for the original campaign from Firefly (recommended).
 
 # HOW TO INSTALL
-Download the maps (click on the green "Code"-Button and then "Download ZIP).
+Download the maps (click on the green "Code"-Button and then "Download ZIP").
 
 Then choose one of the following:
 
@@ -119,7 +117,7 @@ I recommend using the original version of SH1 or HD.
 
 # CREDITS
 
-Special thanks to Heroesflorian, Monsterfish_ und Nevikov
+Special thanks to Heroesflorian, Monsterfish_ and Nevikov
 
 # SUPPORT
 
