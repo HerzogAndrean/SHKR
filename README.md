@@ -1,5 +1,6 @@
 # SHKR
 SHKR ist ein Remaster der SH1-Miltärkampagne und kann (teilweise) als Invasion oder als Ersatz für das Original gespielt werden (empfohlen).
+Ein Remaster der Wirtschaftskampagne (SHW) könnt ihr hier finden: https://github.com/HerzogAndrean/SHW
 
 # INSTALLATION
 
@@ -79,6 +80,7 @@ Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov
 ##
 # SHKR
 SHKR is a Remaster of the military camapign for Stronghold 1 which can be played as normal invasionmaps or as a replacement for the original campaign from Firefly (recommended).
+A Remaster of the economy campaign (SHW) is available here: https://github.com/HerzogAndrean/SHW
 
 # HOW TO INSTALL
 Download the maps (click on the green "Code"-Button and then "Download ZIP").
